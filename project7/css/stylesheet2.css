@@ -1,0 +1,58 @@
+/*css*/
+	body{
+		background-image: url(../images/memphis-colorful.png); 
+		margin:0;
+		padding:0;
+		height:100%;
+	}
+
+	.container-header-sub-a{
+		width:70%;
+		margin:10px auto;
+		border:1px solid pink;
+		box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+		background-image: url(../images/.png); 
+
+	}
+	.container-header-sub-b{
+		width:100%;
+		margin:20px auto;
+		border:none;
+	}
+	.main-content{
+		width:80%;
+		margin:0 auto;
+		border:2px solid #dc9494;
+		background-image: url(../images/sakura.png); 
+		margin-bottom:40px;
+		margin-top:40px;
+		border-radius:2%;
+
+	}
+	.header-image{
+		/*width:100%;*/
+		display:block;
+		/*object-fit:contain;*/
+		height:500px;
+		border-radius:100%;
+
+	}
+	#email{
+		height:50px;
+		width:50%;
+		border-radius:5px;
+		font-size:18px;
+		margin-bottom:10px;
+	}
+	#submit{
+		background-color:black;
+		color:white;
+		height:50px;
+		font-family: 'Chewy', cursive;
+		width:50%;
+		font-size:24px;
+		border-radius:2%;
+		margin-bottom:10px;
+
+	}
+
